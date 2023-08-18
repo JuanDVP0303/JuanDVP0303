@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Fron-tend frameworks and I want to start with Back-end technologies**
 
-- 👨‍💻 All of my projects are available at [https://juandvp0303.github.io/Portafolio/](https://juandvp0303.github.io/Portafolio/)
+- 👨‍💻 All of my projects are available at [https://juandvp0303.github.io/Portafolio/](https://juandvp0303.github.io/Portfolio/)
 
 - 📫 How to reach me **juandvp0303@gmail.com**
 
