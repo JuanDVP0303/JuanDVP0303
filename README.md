@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Start-7](https://www.linkedin.com/company/start-7/posts/?feedView=all)
 
-- 🌱 I’m currently learning **Backend with django, and frontend frameworks like NextJS and more**
+- 🌱 I am currently perfecting **Backend with django, and frontend frameworks like NextJS and more**
 
 - 👨‍💻 All of my projects are available at [https://juandvp0303.github.io/Portafolio/](https://juandvp0303.github.io/Portafolio/)
 
