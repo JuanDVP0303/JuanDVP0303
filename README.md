@@ -5,7 +5,7 @@
 
 - 🌱 I am currently perfecting **Backend with django, and frontend frameworks like NextJS and more**
 
-- 👨‍💻 All of my projects are available at [https://juandvp0303.github.io/Portafolio/](https://juandvp0303.github.io/Portafolio/)
+- 👨‍💻 All of my projects are available at [https://juandvp0303.github.io/Portafolio/](https://juandvp0303.github.io/Portfolio/)
 
 - 💬 Ask me about **React, Django, PostgreSQL**
 
